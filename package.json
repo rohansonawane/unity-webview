@@ -1,0 +1,42 @@
+{
+  "name": "com.vrwebview.slides",
+  "version": "1.0.0",
+  "displayName": "VR WebView Slides",
+  "description": "A Unity package for displaying Google Slides presentations and YouTube videos in VR using WebView technology. Includes support for XR Interaction Toolkit and multiplayer integration.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.xr.interaction.toolkit": "2.5.0",
+    "com.unity.xr.management": "4.3.0",
+    "com.unity.textmeshpro": "3.0.0",
+    "com.unity.inputsystem": "1.7.0"
+  },
+  "keywords": [
+    "vr",
+    "webview",
+    "slides",
+    "youtube",
+    "xr",
+    "interaction",
+    "multiplayer"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://your-website.com"
+  },
+  "documentationUrl": "https://github.com/yourusername/vr-webview-slides",
+  "changelogUrl": "https://github.com/yourusername/vr-webview-slides/releases",
+  "licensesUrl": "https://github.com/yourusername/vr-webview-slides/blob/main/LICENSE",
+  "samples": [
+    {
+      "displayName": "Basic Setup",
+      "description": "Basic setup for displaying Google Slides in VR",
+      "path": "Samples~/BasicSetup"
+    },
+    {
+      "displayName": "Multiplayer Integration",
+      "description": "Example of multiplayer integration with WebView",
+      "path": "Samples~/Multiplayer"
+    }
+  ]
+} 
